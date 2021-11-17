@@ -1,7 +1,5 @@
 ### Hi! / ¡Hola! 👋🇲🇽
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Software+Engineering+Student+%F0%9F%92%BB+;In+the+last+year+of+University+%3A))](https://git.io/typing-svg)
 <!--
 **martnjf/martnjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
